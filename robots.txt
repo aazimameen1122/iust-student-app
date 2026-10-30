@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aazimameen1122.github.io/iust-student-app/sitemap.xml
